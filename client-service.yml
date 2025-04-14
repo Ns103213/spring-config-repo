@@ -3,4 +3,4 @@ spring:
     name: client-service
 
 greeting:
-  message: Hello from the config server!
+  message: Hello from the config server! AGAIN
